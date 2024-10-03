@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @QuaTrixXx205
-- 👀 I’m interested in frontend
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Quang
+- 👀 Ready to learn new things!
+- 🌱 I’m currently learning Full-Stack
 - 📫 How to reach me ...
 
 <!---

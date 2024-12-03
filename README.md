@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Quang
-- 👀 Front-End Developer
-- VueJS, Nodejs,...
+- 👀 Front-End Developer (Vuejs)
+- 👀 Back-End (ASP.Net)
 
 

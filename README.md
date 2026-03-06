@@ -1,13 +1,5 @@
 # About Me
 
-<table align="right">
-  <tr>
-    <td>
-      <img src="https://avatars.githubusercontent.com/u/91518004?v=4" alt="Quang's GitHub Stats" />
-    </td>
-  </tr>
-</table>
-
 ### 👋 Hi, I'm Quang!
 **Frontend Developer | Aspiring Full-Stack Engineer**
 

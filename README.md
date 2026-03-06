@@ -3,7 +3,7 @@
 ### 👋 Hi, I'm Quang!
 **Frontend Developer | Aspiring Full-Stack Engineer**
 
-I specialize in building high-performance web and mobile applications. Currently, I am bridging the gap between pixel-perfect UI and robust server-side logic by expanding my **ASP.NET** and **NestJS** expertise.
+I specialize in building high-performance web and mobile applications. Currently, I am bridging the gap between pixel-perfect UI and robust server-side logic by expanding my backend expertise.
 
 - **I’m currently working on:** Improving my Backend architecture skills.
 - **I’m currently learning:** Advanced System Design and Microservices.

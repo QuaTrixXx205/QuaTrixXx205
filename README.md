@@ -3,7 +3,7 @@
 <table align="right">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=QuaTrixXx205&show_icons=true&theme=tokyonight" alt="Quang's GitHub Stats" />
+      <img src="https://avatars.githubusercontent.com/u/91518004?v=4" alt="Quang's GitHub Stats" />
     </td>
   </tr>
 </table>

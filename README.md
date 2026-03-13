@@ -8,7 +8,7 @@ I specialize in building high-performance web and mobile applications. Currently
 - **I’m currently working on:** Improving my Backend architecture skills.
 - **I’m currently learning:** Advanced System Design and Microservices.
 - **Ask me about:** Vue, Next.js, and Mobile Dev.
-- **Fun fact:** I believe clean code is a love letter to the next developer.
+- **Fun fact:** I believe clean and simple code is a love letter to the next developer.
 
 ---
 
